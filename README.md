@@ -1,9 +1,73 @@
 
       
-  </div>
+ <h1 align="left" id="macropower-title">:wave: Hello there! I'm Ahmed</h1>
+<h3 align="left">I am doing Engineering things</h3>
+
+<p align="left">
+  <a href="https://github.com/MacroPower/MacroPower">
+    <img src="https://komarev.com/ghpvc/?username=Btt1996" alt="page views" />
+  </a>
+  <a href="https://macropower.readthedocs.io/en/latest">
+    <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?logo=read-the-docs">
+  </a>
+  
+  
+  <a href="https://github.com/btt1996?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/btt1996?color=green&logo=github">
+  </a>
+  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+  </a>
+</p>
+
+<a href="#macropower-title">
+  <img src="https://raw.githubusercontent.com/btt1996/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+</a>
+<h1>About</h1>
+
+<p>More than 10 years of Experience in identifying operational problems and providing innovative solutions Analyzing, Designing, Developing and Integrating Front-End & Back-End based applications, My experience started as a geek teenager and earned my First certification in 2015.</p>
+
+<h2>Network security Consultant</h2>
+<ul>
+  <li>WireShark exploiting</li>
+  <li>spoofing</li>
+  <li>Sniffing</li>
+  <li>injecting</li>
+</ul>
+
+<h2>EX White Hacker since 2013:</h2>
+<ul>
+  <li>Database scan & Inject Queries & SQL inject</li>
+  <li>Remote monitoring</li>
+  <li>Portscan</li>
+  <li>Vulnerabilities exploit</li>
+  <li>Phishing</li>
+  <li>Scamins</li>
+  <li>RAT</li>
+  <li>Keyloggers</li>
+  <li>KALI & BACKTRACK TOOLS (debian based OS)</li>
+  <li>TORJANS ,Virus And More</li>
+</ul>
+
+<p>Experience in developing application using Java , Servlets and Restful Web Services.</p>
+
+<p>Experience in developing web application using:</p>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>PHP</li>
+</ul>
+
+<p>ANDROID & IOS Expert</p>
+
+<p>A Linux systems administrator with a proven record in identifying operational problems and providing innovative solutions.</p>
+
+
+<br>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/btt1996/github-readme-stats">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Btt1996&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
@@ -17,10 +81,7 @@
 <br/><br/><br/><br/><br/><br/>
 
 <br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/cpp-artificial-neural-networks" title="Artificial Neural Networks"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-artificial-neural-networks&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
+
 <br/><br/><br/><br/><br/><br/>
 
 <br><br><br><br><br><br>
