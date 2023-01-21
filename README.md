@@ -75,14 +75,6 @@
 <p>A Linux systems administrator with a proven record in identifying operational problems and providing innovative solutions.</p>
 
 
-
-<br/><br/><br/><br/><br/><br/>
-
-<br/><br/><br/><br/><br/><br/>
-
-<br/><br/><br/><br/><br/><br/>
-
-<br><br><br><br><br><br>
 <h4 align="center">
   <a href="https://github.com/btt1996?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
