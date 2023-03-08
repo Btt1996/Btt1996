@@ -7,8 +7,8 @@
   <a href="https://github.com/btt1996">
     <img src="https://komarev.com/ghpvc/?username=Btt1996" alt="page views" />
   </a>
-  <a href="https://macropower.readthedocs.io/en/latest">
-    <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?logo=read-the-docs">
+  <a >
+   
   </a>
   
   
