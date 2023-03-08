@@ -20,8 +20,8 @@
   </a>
 </p>
 
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/btt1996/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+<a href="title">
+  <img src="https://raw.githubusercontent.com/btt1996/github-stats-transparent/output/generated/overview.svg" alt="btt" align="right" />
 </a>
 
   <div align=center>
